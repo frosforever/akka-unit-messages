@@ -1,0 +1,8 @@
+name := "akka-unit-messages"
+
+version := "1.0"
+
+scalaVersion := "2.11.6"
+
+
+    
